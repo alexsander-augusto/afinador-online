@@ -186,11 +186,11 @@ footer a:hover {
         left: 35px;
     }
     .note:nth-child(3) {
-        top: 110px;
+        top: 107px;
         left: 35px;
     }
     .note:nth-child(4) {
-        top: 170px;
+        top: 165px;
         left: 35px;
     }
     .note:nth-child(5) {
@@ -198,11 +198,11 @@ footer a:hover {
         right: 35px;
     }
     .note:nth-child(6) {
-        top: 110px;
+        top: 107px;
         right: 35px;
     }
     .note:nth-child(7) {
-        top: 170px;
+        top: 165px;
         right: 35px;
     }
 }
